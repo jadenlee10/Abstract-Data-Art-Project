@@ -49,4 +49,4 @@ humbnail.png)]((https://www.youtube.com/shorts/PT6od39z6dg))
 ## Description
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
-In this project, I used user input and the theater class to display my data. I wanted to see what teams were in a certain conference in the NBA and so
+In this project, I used user input and the theater class to display my data. I wanted to see what teams were in a certain conference in the NBA and so I used the draw scene method and the scanner class as well as if statements in order to determine if the teams were in either the eastern or western conference and based on the user input, it changed the display of the theater. I made another method outside of the drawScene method called isEasternConference and this was a boolean method that determined which teams were in the eastern conference.
